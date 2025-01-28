@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/pverma7515" target="blank"><img src="https://img.shields.io/twitter/follow/pverma7515?logo=twitter&style=for-the-badge" alt="pverma7515" /></a> </p>
 
-I'm a Ceritified ISTQB Quality Engineer
+I'm a Ceritified ISTQB Quality Engineer driven by a passion for building efficient automation frameworks and conducting thorough manual testing to ensure software quality. I love to find bugs in software and in my little garden. After all, not all bugs are bad!!! 🌱🐞
 
 - 🔭 I’m currently working on **Event Management website**
 
-- 🌱 I’m currently learning **JMeter, API Testing and So on**
+- 🌱 I’m currently learning **JMeter, API Testing and Database Testing**
 
 - 👯 I’m looking to collaborate on **Replace me**
 
@@ -23,7 +23,7 @@ I'm a Ceritified ISTQB Quality Engineer
 
 - 💬 Ask me about **Python, Selenium, Manual testing, Automated testing**
 
-- 📫 How to reach me **Replace me**
+- 📫 How to reach me **LinkedIn: http://www.linkedin.com/in/priyankaverma7515 Gmail: pverma7515@gmail.com**
 
 - 📄 Know about my experiences [Replace me](Replace me)
 
