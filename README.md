@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanka Verma</h1>
-<h3 align="center">A passionate QA Engineer who enjoys finding bugs!!</h3>
+<img src="https://github.com/priyankav24/priyankav24/blob/main/Hey!%20I%E2%80%99m%20Priyanka.png" alt="Hero image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankav24&label=Profile%20views&color=0e75b6&style=flat" alt="priyankav24" /> </p>
 
