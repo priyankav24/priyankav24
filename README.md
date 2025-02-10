@@ -1,4 +1,4 @@
-
+<img src="https://github.com/priyankav24/priyankav24/blob/main/wave.svg" width="1000"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankav24&label=Profile%20views&color=0e75b6&style=flat" alt="priyankav24" /> </p>
 
