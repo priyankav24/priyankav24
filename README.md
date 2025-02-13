@@ -3,6 +3,9 @@
 
 I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in test automation and web application testing. I specialize in developing test strategies, test plans, automated test scripts, automation frameworks and conducting thorough manual and automated testing to enhance software quality in Agile/Scrum environments.
 
+<p>🐞 Fun Fact: I love debugging both software and my little garden. Some bugs deserve to stay! 🌱✨</p>
+
+
 <h3 align="left">🏆 Certifications</h3>
 <p align="left">
 <p>📚 ISTQB Certified Tester - Foundation Level (<a href="https://www.linkedin.com/in/priyankaverma7515/details/certifications/1739466806119/single-media-viewer/?profileId=ACoAADqSy-gBoaDslRl5RRhQNmgovdvFgH6IBQA" target="_blank">See on LinkedIn</a>)</p>
@@ -27,13 +30,14 @@ I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in t
   <img src="https://raw.githubusercontent.com/priyankav24/priyankav24/main/images/medium%20icon.png" alt="Medium" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
 </a></p>
 
+
+
 <h3 align="left">Lets connect and chat!</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/pverma7515" target="blank"><img align="center" src="https://github.com/priyankav24/priyankav24/blob/main/images/linkedin_icon.png" alt="pverma7515" height="30" width="30" /></a>
 <a href="https://medium.com/@pverma7515" target="blank"><img align="center" src="https://raw.githubusercontent.com/priyankav24/priyankav24/main/images/medium%20icon.png" alt="@pverma7515" height="30" width="30" /></a>
 <a href="pverma7515@gmail.com" target="blank"><img align="center" src="https://github.com/priyankav24/priyankav24/blob/main/images/gmail%20icon.jpeg" alt="@pverma7515" height="40" width="40" /></a>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,3 +51,4 @@ l" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devic
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankav24&show_icons=true&locale=en" alt="priyankav24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankav24&" alt="priyankav24" /></p>
+
