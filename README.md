@@ -1,13 +1,8 @@
 <img src="https://github.com/priyankav24/priyankav24/blob/main/wave.svg" width="1000"/>
-<img align="right" src="https://github.com/priyankav24/priyankav24/blob/main/bug.jpeg" x="85%" y="60%" width="80" height="80"/>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankav24&label=Profile%20views&color=0e75b6&style=flat" alt="priyankav24" /> </p>
-
-
-
-
-<p align="left"> <a href="https://twitter.com/pverma7515" target="blank"><img src="https://img.shields.io/twitter/follow/pverma7515?logo=twitter&style=for-the-badge" alt="pverma7515" /></a> </p>
 
 I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in test automation and web application testing. I specialize in developing test strategies, test plans, automated test scripts, automation frameworks and conducting thorough manual and automated testing to enhance software quality in Agile/Scrum environments.
 
