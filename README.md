@@ -30,8 +30,9 @@ I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in t
 <h3 align="left">Lets connect and chat!</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/pverma7515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pverma7515" height="30" width="40" /></a>
-<a href="https://medium.com/@pverma7515" target="blank"><img align="center" src="https://raw.githubusercontent.com/priyankav24/priyankav24/main/images/medium%20icon.png" alt="@pverma7515" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pverma7515" target="blank"><img align="center" src="https://github.com/priyankav24/priyankav24/blob/main/images/linkedin_icon.png" alt="pverma7515" height="30" width="30" /></a>
+<a href="https://medium.com/@pverma7515" target="blank"><img align="center" src="https://raw.githubusercontent.com/priyankav24/priyankav24/main/images/medium%20icon.png" alt="@pverma7515" height="30" width="30" /></a>
+<a href="pverma7515@gmail.com" target="blank"><img align="center" src="https://github.com/priyankav24/priyankav24/blob/main/images/gmail%20icon.jpeg" alt="@pverma7515" height="40" width="40" /></a>
 
 
 
