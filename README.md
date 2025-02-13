@@ -8,7 +8,7 @@ I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in t
 
 <h3 align="left">🏆 Certifications</h3>
 <p align="left">
-<p>📚 ISTQB Certified Tester - Foundation Level (<a href="https://www.linkedin.com/in/priyankaverma7515/overlay/1739466806119/single-media-viewer/?profileId=ACoAADqSy-gBoaDslRl5RRhQNmgovdvFgH6IBQA" target="_blank">🔗 View Certification</a>)</p>
+<p>📚 ISTQB Certified Tester - Foundation Level (<a href="https://github.com/priyankav24/priyankav24/blob/main/images/ISTQB.pdf" target="_blank">🔗 View Certification</a>)</p>
 <p>📝 Python Bootcamp From Zero to Hero (<a href="https://www.udemy.com/certificate/UC-b35718c9-bdff-40ef-96e2-249e0a0e0a1c/" target="_blank">🔗 View Certification</a>) </p>
 <p>📖 Learn API Automation Testing with Python & BDD Framework (<a href="https://www.udemy.com/certificate/UC-579257dc-34d7-4532-b254-5a6a75fc57ed/" target="_blank">🔗 View Certification</a>) </p>
 <p>📗 Selenium Webdriver with Python from Scratch + Frameworks (<a href="https://www.udemy.com/certificate/UC-1c09f10d-b49a-46a4-b1b5-c1fc6263b4f9/" target="_blank">🔗 View Certification</a>) </p>
