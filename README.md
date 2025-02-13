@@ -9,27 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/pverma7515" target="blank"><img src="https://img.shields.io/twitter/follow/pverma7515?logo=twitter&style=for-the-badge" alt="pverma7515" /></a> </p>
 
-I'm a Ceritified ISTQB Quality Engineer driven by a passion for building efficient automation frameworks and conducting thorough manual testing to ensure software quality. I love to find bugs in software and in my little garden. After all, not all bugs are bad!!! 🌱🐞
+I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in test automation and web application testing. I specialize in developing test strategies, test plans, automated test scripts, automation frameworks and conducting thorough manual and automated testing to enhance software quality in Agile/Scrum environments.
 
-- 🔭 I’m currently working on **Event Management website**
-
-- 🌱 I’m currently learning **JMeter, API Testing and Database Testing**
-
-- 👯 I’m looking to collaborate on **Replace me**
-
-- 🤝 I’m looking for help with **Replace me**
-
-- 👨‍💻 All of my projects are available at [Replace me](Replace me)
-
-- 📝 I regularly write articles on [Replace me](Replace me)
-
-- 💬 Ask me about **Python, Selenium, Manual testing, Automated testing**
-
-- 📫 How to reach me **LinkedIn: http://www.linkedin.com/in/priyankaverma7515 Gmail: pverma7515@gmail.com**
-
-- 📄 Know about my experiences [Replace me](Replace me)
-
-- ⚡ Fun fact **I love to find bugs in softwares and in my little garden. Not all bugs are bad !!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
