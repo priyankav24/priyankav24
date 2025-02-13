@@ -2,11 +2,12 @@
 
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankav24&label=Profile%20views&color=0e75b6&style=flat" alt="priyankav24" /> </p>
 
 I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in test automation and web application testing. I specialize in developing test strategies, test plans, automated test scripts, automation frameworks and conducting thorough manual and automated testing to enhance software quality in Agile/Scrum environments.
 
-<h3 align="left">Certifications</h3>
+<h3 align="left">🏆 Certifications</h3>
 <p align="left">
 <p>📚 ISTQB Certified Tester - Foundation Level (<a href="https://www.linkedin.com/in/priyankaverma7515/details/certifications/1739466806119/single-media-viewer/?profileId=ACoAADqSy-gBoaDslRl5RRhQNmgovdvFgH6IBQA" target="_blank">See on LinkedIn</a>)</p>
 <p>📝 Python Bootcamp From Zero to Hero (<a href="https://www.udemy.com/certificate/UC-b35718c9-bdff-40ef-96e2-249e0a0e0a1c/" target="_blank">Certificate</a>) </p>
@@ -16,6 +17,13 @@ I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in t
 <p>📒 Agile scrum Foundation (<a href="https://certificates.simplicdn.net/share/7322757_1724705164.pdf" target="_blank">Certificate</a>) </p>
 <p>📙 Verified International Academic Qualifications (<a href="https://www.credly.com/badges/0ae8e179-71cd-4d24-8eed-b441eea42227/linked_in_profile" target="_blank">Certificate</a>) </p>
 
+<h3>🚀 Current Mission</h3>
+<p>Improving automation frameworks, diving deeper into API testing and sharing knowledge through blogs.</p>
+
+<h3>🚀 My Latest Blog Posts</h3>
+<p>Check out my blog on <a href="https://medium.com/@pverma7515/top-4-must-do-steps-when-testing-a-defect-fix-prioritizing-for-success-07e833f7bd53" target="_blank">
+  <img src="" alt="Medium" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
+</a></p>
 
 
 
@@ -23,9 +31,10 @@ I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in t
 
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
