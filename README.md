@@ -21,8 +21,14 @@ I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in t
 <p>Improving automation frameworks, diving deeper into API testing and sharing knowledge through blogs.</p>
 
 <h3>🚀 My Latest Blog Posts</h3>
-<p>Check out my blog on <a href="https://medium.com/@pverma7515/top-4-must-do-steps-when-testing-a-defect-fix-prioritizing-for-success-07e833f7bd53" target="_blank">
-  <img src="" alt="Medium" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
+<p>Top 4 Must-Do Steps When Testing a Defect Fix — Prioritizing for Success! <a href="https://medium.com/@pverma7515/top-4-must-do-steps-when-testing-a-defect-fix-prioritizing-for-success-07e833f7bd53" target="_blank">
+  <img src="https://github.com/priyankav24/priyankav24/blob/main/images/medium%20icon.png" alt="Medium" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
+</a></p>
+<p>The Art of Debugging Together — How QA and Developers Can Align <a href="https://medium.com/@pverma7515/the-art-of-debugging-together-how-qa-and-developers-can-align-201585a36bd9" target="_blank">
+  <img src="https://github.com/priyankav24/priyankav24/blob/main/images/medium%20icon.png" alt="Medium" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
+</a></p>
+<p>Testing Against the Clock: How to Survive Unrealistic Deadlines Without Sacrificing Quality <a href="https://medium.com/@pverma7515/testing-against-the-clock-how-to-survive-unrealistic-deadlines-without-sacrificing-quality-0b849d6b971f" target="_blank">
+  <img src="https://github.com/priyankav24/priyankav24/blob/main/images/medium%20icon.png" alt="Medium" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
 </a></p>
 
 
