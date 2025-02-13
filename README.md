@@ -8,12 +8,12 @@ I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in t
 
 <h3 align="left">🏆 Certifications</h3>
 <p align="left">
-<p>📚 ISTQB Certified Tester - Foundation Level (<a href="https://www.linkedin.com/in/priyankaverma7515/details/certifications/1739466806119/single-media-viewer/?profileId=ACoAADqSy-gBoaDslRl5RRhQNmgovdvFgH6IBQA" target="_blank">🔗 View Certification</a>)</p>
+<p>📚 ISTQB Certified Tester - Foundation Level (<a href="https://www.linkedin.com/in/priyankaverma7515/overlay/1739466806119/single-media-viewer/?profileId=ACoAADqSy-gBoaDslRl5RRhQNmgovdvFgH6IBQA" target="_blank">🔗 View Certification</a>)</p>
 <p>📝 Python Bootcamp From Zero to Hero (<a href="https://www.udemy.com/certificate/UC-b35718c9-bdff-40ef-96e2-249e0a0e0a1c/" target="_blank">🔗 View Certification</a>) </p>
 <p>📖 Learn API Automation Testing with Python & BDD Framework (<a href="https://www.udemy.com/certificate/UC-579257dc-34d7-4532-b254-5a6a75fc57ed/" target="_blank">🔗 View Certification</a>) </p>
 <p>📗 Selenium Webdriver with Python from Scratch + Frameworks (<a href="https://www.udemy.com/certificate/UC-1c09f10d-b49a-46a4-b1b5-c1fc6263b4f9/" target="_blank">🔗 View Certification</a>) </p>
 <p>📘 MasterClass Software Testing with Jira & agile - Be a QA Lead (<a href="https://www.udemy.com/certificate/UC-f1ed4e53-733b-4630-b350-347e56eb52e7/" target="_blank">🔗 View Certification</a>) </p>
-<p>📒 Agile scrum Foundation (<a href="https://certificates.simplicdn.net/share/7322757_1724705164.pdf" target="_blank">Certificate</a>) </p>
+<p>📒 Agile scrum Foundation (<a href="https://certificates.simplicdn.net/share/7322757_1724705164.pdf" target="_blank">🔗 View Certification</a>) </p>
 <p>📙 Verified International Academic Qualifications (<a href="https://www.credly.com/badges/0ae8e179-71cd-4d24-8eed-b441eea42227/linked_in_profile" target="_blank">🔗 View Certification</a>) </p>
 
 <h3>🚀 Current Mission</h3>
@@ -45,10 +45,6 @@ I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in t
 <a href="https://confluence.atlassian.com/jira061
 l" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/> </a>
 <a href="https://cucumber.io/docs/cucumber/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" height="40"/> </a><a href="https://www.w3schools.com/sql/sql_quickref.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankav24&show_icons=true&locale=en&layout=compact" alt="priyankav24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankav24&show_icons=true&locale=en" alt="priyankav24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankav24&" alt="priyankav24" /></p>
 
