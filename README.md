@@ -3,6 +3,8 @@
 
 I'm a Certified ISTQB Quality Assurance Automation Engineer with experience in test automation and web application testing. I specialize in developing test strategies, test plans, automated test scripts, automation frameworks and conducting thorough manual and automated testing to enhance software quality in Agile/Scrum environments.
 
+<p>Checkout my website: https://priyankav24.github.io/</p>
+
 <p>🐞 Fun Fact: I love debugging both software and my little garden. Some bugs deserve to stay! 🌱✨</p>
 
 
